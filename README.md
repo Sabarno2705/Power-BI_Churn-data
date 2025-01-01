@@ -11,7 +11,7 @@
       Demographic info about customers – gender, age range, and if they have partners and dependents
 
   # Data Analysis (DAX):
-    Measures used in all visualization are:
+   Measures used in all visualization are:
 
       Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
 
