@@ -2,7 +2,7 @@
 # Problem Statemment
   The purpose of this task is to:
 
-  Define proper KPI's
+      Define proper KPI's
       Create a dashboard for the retention manager reflecting the KPI's
       Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
       Customers who left within the last month
